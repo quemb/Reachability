@@ -1,2 +1,2 @@
-# Reachability
-Simple Reachability Checker
+# Reachability Check for Android
+Network Reachability Checker
